@@ -30,15 +30,19 @@ p{
     justify-content: space-between;
     padding: 20px;
 }
-/* .card-group {
-    margin: 20px;
-    border: 1px solid greenyellow;
-}   */
+ .card-group {
+    /* background-color: black; */
+}   
 .card1{
     border: 1px solid greenyellow;
-    padding-right: 20px;
+    margin-right: 20px;
+    margin-left: 150px;
 }
 .card3{
+    border: 1px solid greenyellow;
+    margin-left: 20px;
+}
+.card2{
     border: 1px solid greenyellow;
     padding-right: 20px;
 }
