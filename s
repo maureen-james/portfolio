@@ -1,1 +1,0 @@
-My goal is to be a web developer and change my career path. To achieve this, I have to learn different programming languages  and frameworks. At Moringa School, I will also learn more about Django and Angular. I will also learn project management and implementi
