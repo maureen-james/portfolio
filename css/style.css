@@ -19,6 +19,7 @@
 h1{
     text-align: center;
     padding: 50px;
+    text-decoration: underline;
 }
 #section2{
     background-color: burlywood;
@@ -70,6 +71,7 @@ width: 200px;
 }
 .projects{
     display: flexbox;
+    margin-left: 250px;
 } 
 .contacts{
     padding: 20px;
