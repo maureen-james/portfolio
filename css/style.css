@@ -5,32 +5,37 @@
     text-align: center;
     display: flex;
     background-color: black;
-    color: aqua;
+    color: wheat;
+    font-weight: 700;
+    
 }
 .p1{
-    padding: 100px;
+
     padding-top: 300px;
+    font-size: xx-large;
+    padding-left: 100px;
 
 }
 h1{
     text-align: center;
     padding: 50px;
 }
+#section2{
+    background-color: burlywood;
+}
 .aboutme{
     text-align: center;
-    background-color: aqua;
 }
 .first{
     margin-left: 200px;
 }
 .web{
     font-style: italic;
+    font-size: large;
 }
-.image{
-    float: right;
-}
-#section2{
-    background-image: url(/images/future.jpeg);
+ .image1{
+    padding-left: 40%;
+
 }
 .card-title{
     text-align: center;
@@ -64,7 +69,6 @@ h1{
 width: 200px;
 }
 .projects{
-    margin-left: 350px; 
     display: flexbox;
 } 
 .contacts{
