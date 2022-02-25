@@ -48,5 +48,7 @@ p{
 .about {
    background-color: aqua;
    padding-top: 20px;
-
+}
+.right{
+width: 200px;
 }
