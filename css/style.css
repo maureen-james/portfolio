@@ -3,4 +3,21 @@
 }
 .section1{
     text-align: center;
+    display: flex;
+    background-color: black;
+    color: aqua;
+}
+p{
+    padding: 100px;
+    padding-top: 300px;
+
+}
+.first{
+    margin-left: 200px;
+}
+.web{
+    font-style: italic;
+}
+.image{
+    float: right;
 }
